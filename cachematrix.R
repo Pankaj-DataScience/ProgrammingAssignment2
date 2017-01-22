@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 ## MakeCachematrix is function which will cache inverse of matrix provided as input argument to the function.
-## makecacheMatrix requires input of type matrix.
+## fucntion requires input of type matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
